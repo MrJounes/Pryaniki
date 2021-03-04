@@ -1,0 +1,8 @@
+# Cocoapods
+
+/Pods
+*.wcworkspace
+
+# R.swift
+
+*.generated.swift
